@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terissagwendjo&label=Profile%20views&color=0e75b6&style=flat" alt="terissagwendjo" /> </p>
 
-- 🌱 I’m quite multifunctional but really passionate about Software Development and ready to turn complex problems into elegant code with a dash of innovation. My journey to software development, equipped me with the latest backend development skills. My unique path reflects not only adaptability and resilience, but a burning passion for software development.
+- 🌱 I’m quite multifunctional but really passionate about Software Development and ready to turn complex problems into elegant code with a dash of innovation. My journey to software development, equipped me with the latest backend development skills. My unique path reflects not only adaptability and resilience, but a burning passion for developing softwares.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TerissaGwendjo](https://github.com/TerissaGwendjo)
 
