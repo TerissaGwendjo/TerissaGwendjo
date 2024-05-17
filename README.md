@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terissagwendjo&label=Profile%20views&color=0e75b6&style=flat" alt="terissagwendjo" /> </p>
 
-- 🌱 I’m quite multitalented but really passionate aboust SOftware Development and ready to turn complex problems into elegant code with a dash of innovation.
+- 🌱 I’m quite multitalented but really passionate about Software Development and ready to turn complex problems into elegant code with a dash of innovation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TerissaGwendjo](https://github.com/TerissaGwendjo)
 
