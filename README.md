@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Terissa</h1>
 <h3 align="center">a passionate Junior Software Developer </h3>
 
-![Terissa](./pic3.png)
+![Terissa](./terissa.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terissagwendjo&label=Profile%20views&color=0e75b6&style=flat" alt="terissagwendjo" /> </p>
 
