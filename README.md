@@ -45,12 +45,13 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-   <a href="https://www.autodesk.com/products/inventor/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Autodesk_Logo.png" alt="Autodesk Inventor" width="40" height="40"/>
-  </a>
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   </a>
+   <a href="https://www.autodesk.com/products/inventor/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23" alt="Autodesk Inventor" width="40" height="40"/>
+  </a>
+   
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terissagwendjo&show_icons=true&locale=en&layout=compact" alt="terissagwendjo" /></p>
