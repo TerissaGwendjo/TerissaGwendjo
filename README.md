@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Terissa</h1>
-<h3 align="center">a passionate Software Developer to-be</h3>
+<h3 align="center">a passionate Junior Software Developer </h3>
 
 ![Terissa](./pic3.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terissagwendjo&label=Profile%20views&color=0e75b6&style=flat" alt="terissagwendjo" /> </p>
 
-- 🌱 I’m currently learning **JAVA programming language**
+- 🌱 I’m quite multitalented but really passionate aboust SOftware Development and ready to turn complex problems into elegant code with a dash of innovation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TerissaGwendjo](https://github.com/TerissaGwendjo)
 
-- 📫 How to reach me **terissa.gwendjo@dci-student.org**
+- 📫 How to reach me **terissajuangwendjo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
