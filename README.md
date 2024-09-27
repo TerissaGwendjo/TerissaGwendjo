@@ -8,7 +8,7 @@
 - 🌱 I’m quite multifunctional but really passionate about Software Development and ready to turn complex problems into elegant code with a dash of innovation. My journey to software development, equipped me with the latest backend development skills. My unique path reflects not only adaptability and resilience, but a burning passion for developing softwares.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TerissaGwendjo](https://github.com/TerissaGwendjo)
-- 👨‍💻 My most recent project available at [bookhavenProject](https://bookhaven-5x91.onrender.com/)
+- 👨‍💻 My most recent project available at [bookhaven](https://bookhaven-5x91.onrender.com/)
 
 - 📫 How to reach me **terissajuangwendjo@gmail.com**
 
